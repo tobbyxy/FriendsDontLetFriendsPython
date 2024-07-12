@@ -3,8 +3,8 @@ Friends don't let friends make certain types of data visualization - What are th
 
 This project is motivated by the popular data visualization do's and don't. I decided to create my own version in python, for two reasons. First, it allows me practice my python skills and two allows me reiterate the data visualization problems that can occur when good practices are not adhered to.
 
-To see the original Friend don't let Friends
-Reference [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7542491.svg)](https://doi.org/10.5281/zenodo.7542491)
+To see the original Friend don't let Friends [here](https://github.com/cxli233/FriendsDontLetFriends/tree/main)
+
 
 The `Scripts/` directory contains `.Python` files that generate the graphics shown below. 
 
