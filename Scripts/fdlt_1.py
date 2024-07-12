@@ -88,8 +88,8 @@ axes[2].annotate(f'Kolmogorov-Smirnov p-value: {ks_pval:.2f}', xy=(0.05, 0.95), 
 plt.tight_layout()
 
 # Save the figure as a PDF in the 'Figures' folder
-plt.savefig('Figures/mean_seperation.pdf', format='pdf')
-plt.savefig('Figures/mean_seperation.png', format='png')
+plt.savefig('./Figures/mean_seperation.pdf', format='pdf')
+plt.savefig('./Figures/mean_seperation.png', format='png')
 
 
 #motivation
