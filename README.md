@@ -16,7 +16,7 @@ Requirements
 
 
 # Table of Contents
-## 1. Friends don't let Friends Make Bar Plots for Means Separation <a name = "Means seperation>
+## 1. Friends don't let Friends Make Bar Plots for Means Separation <a name = "Means seperation">
 
 This has to be the first one. 
 Means separation plots are some of the most common in scientific publications. 
