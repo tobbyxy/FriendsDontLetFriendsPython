@@ -30,5 +30,10 @@ Just don't use bar plot for means separation, or at least check a couple things 
 
 
 
-2. Friends don't let Friends
-3. Friends don't let Friends
+## 2. Friends don't let Friends Make Violin Plots for Small Sample Sizes
+Violin pots makes no sense for small n
+
+## 3. Friends don't let Friends Use Biderectional Color Scales for Unidirectional Data
+Colors scaling should be used thoughfully when visualizing data
+
+## 4. Friends don't let Friends Make Bar Plot Meadow

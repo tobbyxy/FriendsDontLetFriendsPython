@@ -105,4 +105,5 @@ axs[2].set_title('Jitter Plot')
 axs[2].text(0.5, -0.2, "Never mind...\nToo little data to say anything.", ha='center', va='center', transform=axs[2].transAxes)
 
 plt.tight_layout()
-plt.savefig('Figures/Violin_plot_for_small_n.pdf', format='pdf')
+plt.savefig('./Figures/Violin_plot_for_small_n.pdf', format='pdf')
+plt.savefig('./Figures/Violin_plot_for_small_n.png', format='png')
